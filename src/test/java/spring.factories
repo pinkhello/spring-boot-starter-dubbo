@@ -1,0 +1,2 @@
+# Auto Configure # 使用 EnableDubbo 替代此文件, 不启用自动化配置
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=org.springframework.boot.dubbo.autoconfigure.DubboAutoConfiguration

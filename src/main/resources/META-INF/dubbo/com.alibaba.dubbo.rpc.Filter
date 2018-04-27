@@ -1,0 +1,3 @@
+interfaceLogFilter=org.springframework.boot.dubbo.filter.InterfaceLogFilter
+providerInvokeStatisticsFilter=org.springframework.boot.dubbo.filter.ProviderInvokeStatisticsFilter
+consumerInvokeStatisticsFilter=org.springframework.boot.dubbo.filter.ConsumerInvokeStatisticsFilter
