@@ -6,7 +6,7 @@ https://gitee.com/hello-go/spring-boot-starter-dubbo.git
 ```
 github地址
 ```
-https://github.com/lee123lee123/spring-boot-starter-dubbo.git
+https://github.com/pinkhello/spring-boot-starter-dubbo.git
 ```
 
 ## 使用方式
