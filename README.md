@@ -2,7 +2,7 @@
 ## 代码地址
 gitee地址
 ```
-https://gitee.com/hello-go/spring-boot-starter-dubbo.git
+https://gitee.com/pinkhello/spring-boot-starter-dubbo.git
 ```
 github地址
 ```
