@@ -52,7 +52,7 @@
         <logstash-logback-encoder.version>4.7</logstash-logback-encoder.version>
 
         <lombok.version>1.16.16</lombok.version>
-        <dubbo.version>2.5.8</dubbo.version>
+        <dubbo.version>2.6.12</dubbo.version>
         <jboss.netty.version>3.2.10.Final</jboss.netty.version>
         <junit.version>4.13.1</junit.version>
 
