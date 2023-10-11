@@ -46,7 +46,7 @@
 
 
 
-        <zookeeper.version>3.4.14</zookeeper.version>
+        <zookeeper.version>3.7.2</zookeeper.version>
         <zkclient.version>0.1</zkclient.version>
 
         <logstash-logback-encoder.version>4.7</logstash-logback-encoder.version>
